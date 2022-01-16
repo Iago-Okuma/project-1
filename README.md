@@ -1,2 +1,2 @@
 # project-1
-These are my firt simple programs. Moreover, have my presentation. 
+These are my first simple programs. Moreover, have my presentation. 
